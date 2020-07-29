@@ -12,10 +12,10 @@
 
 ## Screenshots
 1. Passing Tests
-![Passing Tests](https://raw.githubusercontent.com/RLNYC/udacity_StarNotary/master/screenshots/passing%20test.jpg)
+    ![Passing Tests](https://raw.githubusercontent.com/RLNYC/udacity_StarNotary/master/screenshots/passing%20test.jpg)
 
 2. Create a star
-![Create Star](https://raw.githubusercontent.com/RLNYC/udacity_StarNotary/master/screenshots/create%20star.jpg)
+    ![Create Star](https://raw.githubusercontent.com/RLNYC/udacity_StarNotary/master/screenshots/create%20star.jpg)
 
 3. Look up star info
-![Look Up Star Info](https://raw.githubusercontent.com/RLNYC/udacity_StarNotary/master/screenshots/look%20up%20star%20info.jpg)
+    ![Look Up Star Info](https://raw.githubusercontent.com/RLNYC/udacity_StarNotary/master/screenshots/look%20up%20star%20info.jpg)
